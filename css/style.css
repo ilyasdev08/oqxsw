@@ -1,0 +1,167 @@
+body {
+    background-color: #020722 !important;
+}
+
+.topbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.syts__title {
+    color: #FFFFFF;
+    font-size: 45px;
+    font-weight: 700;
+    width: 577px;
+    height: 108px;
+}
+
+.syts__title-text {
+    color: #FFFFFF;
+    font-size: 18px;
+    font-weight: 500;
+    width: 603px;
+    height: 45px;
+}
+
+.syts__title-text-p {
+    color: #FFFFFF;
+    font-size: 18px;
+    font-weight: 500;
+    width: 603px;
+    height: 45px;
+}
+
+.form {
+    margin-top: 98px;
+    background: #FFFFFF1A;
+    backdrop-filter: blur(42px);
+    width: 393px;
+    height: 690px;
+    border-radius: 30px;
+}
+
+.form__title {
+    padding-top: 30px;
+    color: #FFFFFF;
+    font-size: 28px;
+    height: 700;
+}
+
+.form__title-text {
+    padding-top: 28px;
+    padding-left: 21px;
+    color: #FFFFFF;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.form__title-input {
+    border-radius: 10px;
+    margin-left: 21px;
+    border: none;
+    width: 351px;
+    height: 57px;
+    background: #FFFFFF1A;
+    backdrop-filter: blur(42px)
+}
+
+.btn {
+    width: 258px;
+    height: 57px;
+    background: linear-gradient(90deg, #FAAF3A 0%, #E77900 100%);
+    border-radius: 15px !important;
+    margin-left: 68px;
+    margin-top: 40px;
+}
+
+.form__title-admin {
+    text-align: center;
+    padding-left: 50px;
+    padding-top: 18px;
+    color: #FFFFFF;
+    width: 310px;
+    height: 44px;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.syts {
+    margin-right: 150px;
+}
+
+.help {
+    color: #FFFFFF;
+    font-size: 45px;
+    font-weight: 700;
+}
+
+.button {
+    background: linear-gradient(90deg, #BC48FF 0%, #0774F7 100%);
+    width: 122px;
+    height: 32px;
+    color: #FFFFFF;
+    border: none;
+    border-radius: 14.83px;
+}
+
+.button__two {
+    background-color: #00193F4D;
+    width: 122px;
+    height: 32px;
+    color: #FFFFFF;
+    border: none;
+    border-radius: 14.83px;
+}
+
+.buuto__starst {
+    background: #00193F4D;
+    border-radius: 42px;
+    width: 966px;
+    height: 97px;
+}
+
+.buutonna {
+    padding-top: 30px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.text {
+    color: #FFFFFF;
+}
+
+.color {
+    color: #FFFFFF;
+}
+
+.acccardinol {
+    width: 966px;
+    height: 686px;
+}
+
+.header-bg {
+    background-image: url(../img/Group\ 86.png);
+    background-size: cover;
+    background-position: center;
+}
+
+.accordion-button{
+    margin-left: 10px !important;
+    font-size: 20px !important;
+    color: #FFFFFF !important;
+    border-radius: 80px !important;
+    background: #00193F4D !important;
+}
+
+.accordion-header{
+    border-radius: 80px !important;
+    background: #00193F4D !important;
+}
+
+.accordion-item{
+    color: #FFFFFF !important;
+    border-radius: 80px !important;
+    background: #00193F4D !important;
+}
